@@ -12,4 +12,9 @@ html, body, #app {
   margin: 0;
   overflow: hidden;
 }
+
+* {
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
 </style>
