@@ -37,9 +37,7 @@ export default defineComponent({
     },
     methods: {
         submitForm() {
-            // Logic to handle form submission
             console.log('Form data:', this.nombre, this.celular, this.responsable, this.direccion, this.usuario);
-            // Reset form fields after submission
             this.nombre = '';
             this.celular = '';
             this.responsable = '';

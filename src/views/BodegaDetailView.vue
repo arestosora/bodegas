@@ -56,7 +56,7 @@ const bodegaslist = [
             { id: 4, nombre: 'Nombre 4', apellido: 'Apellidos 4', direccion: 'Apellidos 4', identificacion: 'Apellidos 4' },
         ]
     },
-    // Add more bodega data as needed
+
 ];
 
 export default defineComponent({
